@@ -1,14 +1,12 @@
 # Hello, I'm Kunal Yadav! 👋  
-**Full-Stack Developer | Web Enthusiast | Learn while doing**
+**Linux system engineer | aws cloud engineer | Learn while doing**
 
 ---
 
 ## 👨‍💻 About Me:
 
-- 💻 Currently learning MERN Stack, Scala, and DevOps.  
-- 🚀 Exploring new technologies to build modern web applications.  
-- 🤝 Open to collaborating on Web Development projects.  
-- 🛠 I enjoy working on JavaScript, React.js, Node.js, MongoDB, and more.
+- 💻 Currently learning Linux , AWS Cloud ,DevOps and genai.  
+- 🛠 I enjoy working on aws cloud.
 
 ---
 
