@@ -22,9 +22,7 @@
 
 | Category              | Technologies & Tools                             |
 |-----------------------|--------------------------------------------------|
-| **Programming Languages** | JavaScript, Scala, Python                     |
-| **Frontend**             | React.js, HTML5, CSS3, Tailwind CSS            |
-| **Backend**              | Node.js, Express.js                            |
+| **Programming Languages** | JavaScript,Python                     |
 | **Database**             | MongoDB, MySQL                                 |
 | **Other Tools**          | Git, GitHub, VS Code, Postman, Docker          |
 
