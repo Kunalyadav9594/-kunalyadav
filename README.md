@@ -22,7 +22,7 @@
 
 | Category              | Technologies & Tools                             |
 |-----------------------|--------------------------------------------------|
-| **Programming Languages** | JavaScript,Python                     |
+| **Programming Languages** | Python                     |
 | **Database**             | MongoDB, MySQL                                 |
 | **Other Tools**          | Git, GitHub, VS Code, Postman, Docker          |
 
